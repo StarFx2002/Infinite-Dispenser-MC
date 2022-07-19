@@ -1,0 +1,7 @@
+{
+    "files.autoGuessEncoding": true,
+    "java.jdt.ls.java.home":"C:\\Program Files\\AdoptOpenJDK\\jdk-18.0.1.1",
+    "java.project.exportJar.targetPath": "D:\\Minecraft Stuff\\1.19 Bungee Server\\PluginTest\\plugins\\Infinite Dispenser.jar",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.dependency.packagePresentation": "hierarchical"
+}

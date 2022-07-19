@@ -1,0 +1,5 @@
+main: me.starplugin.infinitedispenser.Main
+name: InfiniteDispenser
+version: 0.69
+api-version: 1.19
+description: A very good dispenser!
